@@ -4,6 +4,9 @@
 An AI-powered camera project using the ESP32-CAM, SSD1306 OLED display, and OpenAI's GPT-4 Vision API.
 Capture images, send them to OpenAI for summarization or analysis, and scroll the response on a tiny OLED.
 
+# Demo
+https://docsend.com/view/s/ysh76zp6jmcn5933
+
 # Features
   - One-button image capture and AI prompt
   - Live status messages on OLED (Wi-Fi, camera, processing)
@@ -53,7 +56,3 @@ Select the AI Thinker ESP32-CAM board
   - Upload at 115200 baud
   - Power the ESP32-CAM via 5V and GND from the USB converter
   - Press the button to capture and view AI summaries on the OLED
-
-# Demo
-(Insert a video or image link here)
-
